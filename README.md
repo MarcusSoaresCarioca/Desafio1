@@ -3,7 +3,7 @@
 
  > Trilha Explorer
 
-![preview](./.github/preview-site.png)
+![preview](github/preview.png)
 
  Projeto construído do evento Next Level Week da Rocketseat.
 
